@@ -1,29 +1,16 @@
-# Project 6 - BeReal Clone Pt. 2
-
-Submitted by: Samyutha Potharaju
+# BeReal Clone Pt. 2
 
 BeReal Clone Pt.2 is an app that allows users to persist login, blurs photos on feed before posting, and lets users upload their own photos
 
-Time spent: 2 hours spent in total
+## Features
 
-## Required Features
-
-The following **required** functionality is completed:
-
-- [x] User can launch camera to take photo instead of photo library (OR user uploads unique photo from photo album)
-- [x] User session persists when application is closed and relaunched
-- [x] Users are able to log out and return to sign in page
-- [x] Users are NOT able to see other photos until they upload their own	
+- User can launch camera to take photo instead of photo library (OR user uploads unique photo from photo album)
+- User session persists when application is closed and relaunched
+- Users are able to log out and return to sign in page
+- Users are not able to see other photos until they upload their own	
  
-The following **optional** features are implemented:
-
-- [ ] User receive notifcation when it is time to post
-- [ ] Users can make comments and view comments in posts	
-
-The following **additional** features are implemented:
-
-- [x] List anything else that you can get done to improve the app functionality!
-I can improve the app by allowing users to add friends and view only their friends posts.
+Improvements:
+- allow users to add friends and view only their friends posts
 
 ## Video Walkthrough
 
@@ -37,9 +24,6 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-Some challenges I encountered were configuring the blur view so that it is on the image only and not on the entire view.
 
 ## License
 
